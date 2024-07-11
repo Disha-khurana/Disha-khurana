@@ -5,8 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Disha</h1>
 
--🌱 I’m currently learning React
+ - 🌱 I’m currently learning React.
 
 - 💬 Ask me about **Javascript, Python, Node, Express**
 
+📫 How to reach me khuranadisha2@gmail.com
 
