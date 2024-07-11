@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ratemypg - a pg review system](ratemypg.in)
 
-- 🌱 I’m currently learning  ![React](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+-🌱 I’m currently learning React
 
 - 💬 Ask me about **Javascript, Python, Node, Express**
 
