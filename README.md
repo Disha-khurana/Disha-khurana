@@ -9,5 +9,5 @@
 
 - 💬 Ask me about **Javascript, Python, Node, Express**
 
-📫 How to reach me khuranadisha2@gmail.com
+ - 📫 How to reach me khuranadisha2@gmail.com
 
