@@ -5,9 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Disha</h1>
 
-
-- 🔭 I’m currently working on [ratemypg - a pg review system](ratemypg.in)
-
 -🌱 I’m currently learning React
 
 - 💬 Ask me about **Javascript, Python, Node, Express**
