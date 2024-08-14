@@ -20,5 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/disha-khurana-347864266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-khurana-347864266" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khuranadisha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khuranadisha2" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Dishakhurana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="painnitin" height="30" width="40" /></a>
+</p>
 </p>
 
