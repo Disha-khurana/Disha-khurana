@@ -7,7 +7,7 @@
 
  - 🌱 I’m currently learning JQuery.
 
-- 💬 Ask me about **Javascript, Python, Node, Express**
+- 💬 Ask me about **Javascript, React , Redux , Tailwind CSS**
 
  - 📫 How to reach me khuranadisha2@gmail.com
    
