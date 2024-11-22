@@ -5,9 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Disha</h1>
 
- - 🌱 I’m currently learning JQuery.
+ - 🌱 I’m currently learning PHP.
 
-- 💬 Ask me about **Javascript, React , Redux , Tailwind CSS**
+- 💬 Ask me about **Javascript, React , Redux , Tailwind CSS , Next**
 
  - 📫 How to reach me khuranadisha2@gmail.com
    
